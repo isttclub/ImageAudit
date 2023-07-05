@@ -1,0 +1,17 @@
+{
+    "name": "rongfei/image-audit",
+    "autoload": {
+        "psr-4": {
+            "Rongfei\\ImageAudit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "2946044938rf",
+            "email": "2946044938@qq.com"
+        }
+    ],
+    "require": {
+        "qcloud/cos-sdk-v5": "^2.6"
+    }
+}
